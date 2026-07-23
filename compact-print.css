@@ -4,6 +4,7 @@
   .shell{width:98%}
   .hero{padding:10px 0 15px}
   .brand{padding-bottom:8px}
+  .status{font-size:0}.status:after{content:"PLAN DE TRABAJO";font-size:7pt}
   .hero-grid{grid-template-columns:1.15fr .85fr;gap:18px;padding-top:16px}
   h1{font-size:30pt;margin:5px 0 9px}
   .lead{font-size:8.5pt;line-height:1.35}
