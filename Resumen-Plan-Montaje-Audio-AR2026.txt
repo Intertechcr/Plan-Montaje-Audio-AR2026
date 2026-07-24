@@ -8,18 +8,19 @@ FLUJO DE TRABAJO
 1. A las 10:00 a. m., registrar al personal, realizar la reunión de seguridad, repasar el diseño y preparar la recepción.
 2. Recibir y descargar completamente el camión. No distribuir cajas durante la descarga.
 3. Trasladar todo el equipo a la zona de inspección.
-4. Realizar itinerario, chequeo, fotografías y registro de cada caja.
+4. Realizar inventario, chequeo, fotografías y registro de cada caja.
 5. Joel Benavides, Ariel Lourdes y Roy Azofeifa miden y marcan los puntos de instalación, el área de operación y las rutas del cableado según el diseño técnico.
 6. Después del registro y el marcado, cada grupo retira las cajas asignadas a su zona.
 7. Para planta alta, llevar las cajas hasta la escalera y coordinar la subida.
 8. Nunca dejar cajas sin supervisión.
 9. Montar, cablear, etiquetar, proteger y probar todo el sistema de audio.
 
-ITINERARIO Y CHEQUEO
+INVENTARIO Y CHEQUEO
 - Kimberly Amador
 - Sarelly Fallas
 - Cristin Legrand
 - Nayerith Arroyo
+- Al terminar este primer trabajo, aproximadamente media hora después, se integran a los grupos indicados abajo.
 
 MEDICIÓN Y MARCADO
 - Joel Benavides
@@ -41,12 +42,12 @@ CRITERIOS DE INSTALACIÓN
 - Ubicar los racks y el área de operación del audio conforme al diseño.
 
 GRUPOS POR ZONA
-- Grupo 1 - Zona 1: Gabriela de Benavides y Carlos Alberto.
-- Grupo 2 - Zona 2: Andretti Araya y Anita de Araya.
+- Grupo 1 - Zona 1: Gabriela de Benavides, Carlos Alberto y Kimberly Amador después de inventario.
+- Grupo 2 - Zona 2: Andretti Araya, Anita de Araya y Sarelly Fallas después de inventario.
 - Grupo 3 - Zona 3: Emilio Campos, Yadira y Wedwin Arroyo.
 - Grupo 4 - Zona 4: Javier Cascante, Brigitte Gravel y Julio Durán González.
-- Grupo 5 - Zona 5: Luis D. Parrales y Anyel Jiménez.
-- Grupo 6 - Zona 6: Andrés Umaña y Yanira de Umaña.
+- Grupo 5 - Zona 5: Luis D. Parrales, Anyel Jiménez y Cristin Legrand después de inventario.
+- Grupo 6 - Zona 6: Andrés Umaña, Yanira de Umaña y Nayerith Arroyo después de inventario.
 
 OBJETIVO
 Todo el equipo de audio debe quedar instalado, identificado, protegido y probado el miércoles.
