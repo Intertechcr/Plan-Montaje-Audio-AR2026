@@ -13,7 +13,7 @@ FLUJO DE TRABAJO
 6. Después del registro y el marcado, cada grupo retira las cajas asignadas a su zona.
 7. Para planta alta, llevar las cajas hasta la escalera y coordinar la subida.
 8. Nunca dejar cajas sin supervisión.
-9. Montar, cablear, etiquetar, proteger y probar todo el sistema de audio.
+9. Montar, cablear, etiquetar, proteger y probar las 33 bocinas del sistema: 28 en las seis zonas principales, 2 para participantes y video, y 3 monitores de plataforma.
 
 INVENTARIO Y CHEQUEO
 - Kimberly Amador
@@ -33,6 +33,7 @@ AUDIO HEADING
 - Ariel Lourdes
 - Roy Azofeifa
 - Después del chequeo y el marcado, retiran el kit de audio, racks, interconexiones, snake, transmisor FM y micrófonos; ubican el área de operación y dejan el sistema armado siguiendo el diseño.
+- Después de colocar Audio Heading, instalan los tres parlantes monitores de plataforma y tienden el cableado para la zona de video y el área de participantes detrás de la plataforma.
 
 CRITERIOS DE INSTALACIÓN
 - Lograr inteligibilidad, nivel de sonido adecuado y naturalidad.
