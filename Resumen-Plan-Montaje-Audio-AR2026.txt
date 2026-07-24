@@ -21,10 +21,17 @@ ITINERARIO Y CHEQUEO
 - Cristin Legrand
 - Nayerith Arroyo
 
+MEDICIÓN Y MARCADO
+- Joel Benavides
+- Ariel Lourdes
+- Roy Azofeifa
+- Miden y marcan los puntos de instalación, el área de operación y las rutas del cableado utilizando las referencias del diseño técnico y cinta que no deje residuos.
+
 AUDIO HEADING
 - Joel Benavides
 - Ariel Lourdes
 - Roy Azofeifa
+- Después del chequeo y el marcado, retiran el kit de audio, racks, interconexiones, snake, transmisor FM y micrófonos; ubican el área de operación y dejan el sistema armado siguiendo el diseño.
 
 CRITERIOS DE INSTALACIÓN
 - Lograr inteligibilidad, nivel de sonido adecuado y naturalidad.
