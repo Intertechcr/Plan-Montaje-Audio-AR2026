@@ -2,29 +2,37 @@ PLAN RESUMIDO - MONTAJE DE AUDIO AR 2026
 Miércoles 29 de julio
 
 HORARIOS CLAVE
-- 9:00 a. m.: llegada al Polideportivo.
-- 10:00 a. m.: llegada del camión.
+- 9:00 a. m.: llegada al Polideportivo y preparación previa.
+- 10:00 a. m.: inicio de los trabajos y llegada del camión.
 
 FLUJO DE TRABAJO
-1. Registrar al personal, repasar la seguridad y preparar la recepción.
-2. Descargar completamente el camión. No distribuir cajas durante la descarga.
+1. Registrar al personal, repasar la seguridad y preparar la recepción antes de las 10:00 a. m.
+2. A las 10:00 a. m., iniciar los trabajos y descargar completamente el camión. No distribuir cajas durante la descarga.
 3. Trasladar todo el equipo a la zona de inspección.
-4. Realizar bitácora, chequeo, fotografías y registro de cada caja.
-5. Después del registro, cada grupo retira las cajas asignadas a su zona.
-6. Para planta alta, llevar las cajas hasta la escalera y coordinar la subida.
-7. Nunca dejar cajas sin supervisión.
-8. Montar, cablear, etiquetar, proteger y probar todo el sistema de audio.
+4. Realizar itinerario, chequeo, fotografías y registro de cada caja.
+5. Joel Benavides, Ariel Lourdes y Roy Azofeifa miden y marcan los puntos de instalación, el área de operación y las rutas del cableado según el diseño técnico.
+6. Después del registro y el marcado, cada grupo retira las cajas asignadas a su zona.
+7. Para planta alta, llevar las cajas hasta la escalera y coordinar la subida.
+8. Nunca dejar cajas sin supervisión.
+9. Montar, cablear, etiquetar, proteger y probar todo el sistema de audio.
 
-BITÁCORA Y CHEQUEO
+ITINERARIO Y CHEQUEO
 - Kimberly Amador
 - Sarelly Fallas
 - Cristin Legrand
 - Nayerith Arroyo
 
-GRUPO DE AUDIO
+AUDIO HEADEND
 - Joel Benavides
 - Ariel Lourdes
 - Roy Azofeifa
+
+CRITERIOS DE INSTALACIÓN
+- Lograr inteligibilidad, nivel de sonido adecuado y naturalidad.
+- Revisar el inventario en un área despejada y acordonada; fotografiar y reportar daños.
+- Usar las medidas del diseño técnico y cinta que no deje residuos.
+- Identificar las rutas del cableado y proteger los cruces peatonales.
+- Ubicar los racks y el área de operación del audio conforme al diseño.
 
 GRUPOS POR ZONA
 - Grupo 1 - Zona 1: Gabriela de Benavides y Carlos Alberto.
